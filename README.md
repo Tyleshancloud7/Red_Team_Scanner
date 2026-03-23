@@ -109,6 +109,9 @@ The platform is a pioneer in detecting Agentic Security Issues:
 *   Severity Levels: Critical, High, Medium, Low.
 *   Risk Scoring Model: A hybrid 0-100 score calculated based on intent severity and framework mapping.
 *   Remediation Guidance: Every finding includes specific, actionable steps for developers to harden their AI integrations.
+*   
+<img width="2804" height="1096" alt="Image 3-23-26 at 2 17 PM" src="https://github.com/user-attachments/assets/96c1455d-9c15-4816-bb84-5ce4e6d4d6ea" />
+
 
 ---
 
