@@ -7,6 +7,9 @@ AegisRT AI is a next-generation, full-stack security-as-a-service (SaaS) platfor
 
 The platform is engineered for SOC teams, security engineers, and enterprise AI architects who need to monitor, test, and secure AI agents and LLM integrations against emerging adversarial patterns and architectural vulnerabilities.
 
+<img width="2848" height="600" alt="Image 3-23-26 at 12 55 PM" src="https://github.com/user-attachments/assets/543e048d-06ee-448a-a808-474e1337a294" />
+
+
 ---
 
 ## 🎯 Purpose & Vision
@@ -34,6 +37,8 @@ AegisRT AI combines three core pillars into a single unified interface:
 1.  Security Scanning: Automated red-teaming of AI prompts and agent behaviors.
 2.  AI Risk Detection: Real-time analysis of intent, trust scores, and adversarial patterns.
 3.  Agent Governance: A centralized inventory for authorized AI assets with strict ownership verification and audit logging.
+   <img width="1980" height="1038" alt="Image 3-23-26 at 12 56 PM" src="https://github.com/user-attachments/assets/c7372f8c-5774-4ce8-a290-83babe88dc55" />
+
 
 ---
 
