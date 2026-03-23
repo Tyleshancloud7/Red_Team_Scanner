@@ -1,4 +1,6 @@
 # 🔐 AegisRT AI: Enterprise Agentic Security & Governance Platform
+<img width="1536" height="1024" alt="image0" src="https://github.com/user-attachments/assets/150bae35-1402-4408-8da8-a59438eefa31" />
+
 
 ## 🧠 Overview
 AegisRT AI is a next-generation, full-stack security-as-a-service (SaaS) platform designed specifically for the era of Agentic AI and Large Language Models (LLMs). It serves as a comprehensive AI Security, Red Teaming, and GRC (Governance, Risk, and Compliance) command center.
